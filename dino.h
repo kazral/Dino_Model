@@ -1,0 +1,12 @@
+void draw_dino();
+void draw_body();
+void draw_arm();
+void draw_forearm();
+void draw_tail();
+void draw_neck();
+void draw_head();
+void draw_eye(bool left);
+void draw_pupil();
+void draw_leg();
+void draw_foot();
+void draw_tooth();
